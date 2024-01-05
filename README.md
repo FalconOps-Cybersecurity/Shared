@@ -1,4 +1,4 @@
-# Shared
+# FalconOps Shared Utilities
 Shared tools and utilities from the team at FalconOps
 
 ## Nessus to JSON (for use in Sysreptor)
